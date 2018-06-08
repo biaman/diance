@@ -1,0 +1,9 @@
+D:\Normal Trainning\ElectriTest\ElectriTest\bin\Debug\ElectriTest.exe.config
+D:\Normal Trainning\ElectriTest\ElectriTest\obj\Debug\ElectriTest.csprojResolveAssemblyReference.cache
+D:\Normal Trainning\ElectriTest\ElectriTest\obj\Debug\ElectriTest.Form1.resources
+D:\Normal Trainning\ElectriTest\ElectriTest\obj\Debug\ElectriTest.Properties.Resources.resources
+D:\Normal Trainning\ElectriTest\ElectriTest\obj\Debug\ElectriTest.csproj.GenerateResource.Cache
+D:\Normal Trainning\ElectriTest\ElectriTest\bin\Debug\ElectriTest.exe
+D:\Normal Trainning\ElectriTest\ElectriTest\bin\Debug\ElectriTest.pdb
+D:\Normal Trainning\ElectriTest\ElectriTest\obj\Debug\ElectriTest.exe
+D:\Normal Trainning\ElectriTest\ElectriTest\obj\Debug\ElectriTest.pdb
